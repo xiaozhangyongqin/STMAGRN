@@ -155,7 +155,7 @@ PEMS03:
     input_dim: 1
     output_dim: 1
     horizon: 12
-    rnn_units: 52
+    rnn_units: 64
     num_layers: 1
     cheb_k: 3
     ycov_dim: 2
